@@ -25,6 +25,12 @@
     "demoapp-e2e": {
       "tags": [],
       "implicitDependencies": ["demoapp"]
+    },
+    "testlib1": {
+      "tags": []
+    },
+    "testlib2": {
+      "tags": []
     }
   }
 }
